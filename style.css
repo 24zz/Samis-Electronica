@@ -47,7 +47,21 @@ footer {
     color: rgb(1, 4, 7);
 }
 
-
+.container3 {
+    background-image: url('assets/banner 2.jpg');
+    background-size: cover; 
+    background-position: center; 
+    padding: 20px 0; 
+    height: 350px;
+}
+.container4 {
+    padding-top: 30px;
+    width: 95%;
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+    color: rgb(41, 41, 41);
+}
 
 .container5 {
     padding-top: 30px;
